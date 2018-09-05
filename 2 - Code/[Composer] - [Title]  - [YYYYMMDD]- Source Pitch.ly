@@ -1,8 +1,8 @@
 %
-%  Alistair Kirk's Lilypond Template for Polyphonic Music - last revised 2015-04-29.
+%  Alistair Kirk's Lilypond Template for Polyphonic Music - last revised 2018-09-03.
 %
-%  Best edited using Frescobaldi!  Get it from frescobaldi.org - a highly recommended
-%  Lilypond editor.
+%  Best edited using Frescobaldi!  Get it from frescobaldi.org - a highly recommended 
+%  Lilypond editor.  (I also highly recommend VSCode with its Git integration for version controlling.)
 %
 
 %%%%%%%%%%%%%%%%%%
