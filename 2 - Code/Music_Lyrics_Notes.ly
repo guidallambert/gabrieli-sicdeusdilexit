@@ -71,7 +71,7 @@ StaveANotes = {
 		c''2 f''2. f''4 e''2 d''1 d''2 d''2. a'4 c''2 c''2 c''2 d''2.( c''4 c''1 \ficta b'2) c''\breve
 	r1 R\breve R\longa
 		c''\breve a'\breve g'2 g'2 c''1 d''2 d''2 d''1 c''\breve.
-	r1 r2	a'2 d''2 c''2 a'1 
+	r1 r2	a'2 d''2 c''2 a'1
 	r2	c''2 f''2 e''2 c''\breve
 	r1 r1 r2
 		c''2 c''2. c''4 c''2 d''2 c''2 bes'2 a'2.( bes'4 c''1) f'1
@@ -93,14 +93,14 @@ StaveANotes = {
 StaveBNotes = {
 
   % clef c3  % tweak / uncomment for debugging - this should override the clef in the score block
-  
-    		c'1 f'1 f'2 e'2 d'2 d'2 c'2.( d'4 e'4 f'4 g'2. f'4 f'2.( e'8 d'8 e'2) d'2 
+
+    		c'1 f'1 f'2 e'2 d'2 d'2 c'2.( d'4 e'4 f'4 g'2. f'4 f'2.( e'8 d'8 e'2) d'2
 		d'2 a'2 g'2 f'2.( g'4 a'4 f'4 a'2) g'2
 		e'2 e'2 c'2 c'1. c'2
 		c'1 f'1 f'2 e'2 c'2 f'2 f'4( g'4 a'4 bes'4 c''1) g'2
 		g'2 a'1 a'2 f'2 g'2 g'2 a'1. g'2
 	r2	d'2 g'1 g'2 f'2 a'1 g'1 a'2.( bes'4 c''\breve) f'1
-	r2	g'2 bes'2. bes'4 a'2 g'1 c'1 c''1 bes'2 bes'2 bes'2 g'1 a'4( g'4 f'4 e'4 d'1) c'2 
+	r2	g'2 bes'2. bes'4 a'2 g'1 c'1 c''1 bes'2 bes'2 bes'2 g'1 a'4( g'4 f'4 e'4 d'1) c'2
 		bes2 f'2. f'4 e'2 e'2 c'2 c'1 f'2 d'2 d'2 g'\breve
 	r\breve r2
 		f'2 c''2. c''4 bes'2 a'1 a'2 g'1 g'2 f'1 e'2 g'2 a'2.( g'4 e'4 f'4 g'4 d'4 g'2) e'1
@@ -111,11 +111,11 @@ StaveBNotes = {
 		c''2 a'2. a'4 a'2 g'2 c''2 a'2 g'2.( f'8 g'8 a'1.) d'2
 	r2	d'2 a'2. a'4 a'2 bes'2 a'2 g'2 f'2.( g'4 a'1) d'2
 		g'2.( f'4 e'2) g'2 a'2 g'1 d'2
-		d'2 e'2. e'4 e'2 
+		d'2 e'2. e'4 e'2
 		g'2 a'2. a'4 a'2 g'2 c''2.( bes'4 a'2) g'2 a'1 bes'1
 		g'1 g'2 g'2 a'2 a'2 g'2 a'2 bes'2 g'2 fis'2 g'2 e'2
 	r4	c''4 b'2 c''2 c''\breve
-	r2	f'2 f'2 f'2 g'2 f'2. f'4 e'2 f'1 
+	r2	f'2 f'2 f'2 g'2 f'2. f'4 e'2 f'1
 		e'1 d'2 e'2 f'2 f'2 e'2 f'2 f'2
 		bes'2 a'2 bes'2 g'2 g'2 g'2 g'2 a'2
 		a'2 g'2 a'2 bes'1
@@ -136,7 +136,7 @@ StaveDNotes = {
 	r2	g2 c'2. c'4 bes2 a1 a2 a2 c'2 d'2 d'2 a2 d'4( c'4 bes4 a4 g4 a4 bes4 c'4 d'2) c'1
 	R\breve
 		g1. c'2. c'4 a2 g2 d'2 d'2 g'1 f'1 f'2 d'2 c'2 a2
-		bes2.( a4 a4 g8 f8 g1) f2 
+		bes2.( a4 a4 g8 f8 g1) f2
 		c'1 a1 f2 g1 g2.( a4 bes1) a2 a2 a1 c'2 c'2 f'2 e'2 c'\breve
 	r\breve
 		c'1 d'2 c'2 a2
@@ -153,7 +153,7 @@ StaveDNotes = {
 	r2	f2 f2 f2 f\maxima*1/4
 
 }
-StaveCNotes = { 
+StaveCNotes = {
 
   % clef c4  % tweak / uncomment for debugging - this should override the clef in the score block
 
@@ -172,7 +172,7 @@ StaveCNotes = {
 		c'2   f'2. f'4 f'2 g'1 f'1 e'2 d'4( e'4 f'1 e'2 d'2. e'4 fis'1) g'1
 	R\breve r2
 		g'2 g'2. g'4 g'2 a'2 g'2 e'2 f'1. d'2
-	r2	c'2 c'2 e'2 f'1 f'1 
+	r2	c'2 c'2 e'2 f'1 f'1
 		e'1 d'2 e'2 f'2 f'2 e'2 f'2 f'2 bes'2 a'2 bes'2 g'2
 		g'2 g'2 g'2 a'2 a'2 g'2 a'2 bes'1
 	r2	bes'2 bes'1. g'2 a'1 g'1 g'2 g'2 a'2
@@ -180,7 +180,7 @@ StaveCNotes = {
 	r4	c''4 b'2 c''2 c''\breve
 	r2	f'2 f'2 f'2 g'2 f'2. f'4 e'2 f'1~ f'\maxima*1/2
 }
-StaveENotes = { 
+StaveENotes = {
 	R\longa R\longa R\longa R\breve
 		c1 f1 f2 e2 d2 d2 c1 f2 bes,4( c4 d4 e4 f2) c2 c2 g1 f1
 	r1	c1 f1 f2 e2 d2 d2 c1 bes,1
@@ -226,7 +226,7 @@ StaveHNotes = { bes }
 % 4 - Score content: text / lyrics
 %%%%%%%%%%%%%%%%%%
 
-StaveALyrics = \lyricmode {  
+StaveALyrics = \lyricmode {
 	Sic De -- us di -- le -- xit mun -- dum, __
 	Sic De -- us di -- le -- xit mun -- dum,
 	Sic De -- us di -- le -- xit mun -- dum,
@@ -240,11 +240,11 @@ StaveALyrics = \lyricmode {
 	Al -- le -- lu -- ia, Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, Al -- le -- lu -- ia,
-	Al -- le -- lu -- ia, Al -- le -- lu -- ia, 
+	Al -- le -- lu -- ia, Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia.
 }
-StaveBLyrics = \lyricmode {  
+StaveBLyrics = \lyricmode {
 	Sic De -- us di -- le -- xit mun -- dum,
 		di -- le -- xit mun -- dum,
 		di -- le -- xit mun -- dum,
@@ -260,7 +260,7 @@ StaveBLyrics = \lyricmode {
 		Sed ha -- be -- at vi -- tam ae -- ter -- nam,
 		vi -- tam ae -- ter -- nam,
 		Sed ha -- be -- at,
-		Sed ha -- be -- at vi -- tam ae -- ter -- nam.	
+		Sed ha -- be -- at vi -- tam ae -- ter -- nam.
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
@@ -283,8 +283,8 @@ StaveDLyrics = \lyricmode {
 		non pe -- re -- at,
 	Sed ha -- be -- at vi -- tam ae -- ter -- nam,
 		vi -- tam ae -- ter -- nam,
-		Sed ha -- be -- at vi -- tam ae -- ter -- nam,	
-		Sed ha -- be -- at vi -- tam ae -- ter -- nam.	
+		Sed ha -- be -- at vi -- tam ae -- ter -- nam,
+		Sed ha -- be -- at vi -- tam ae -- ter -- nam.
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
@@ -312,8 +312,8 @@ StaveCLyrics = \lyricmode {
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
-	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
-	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
+	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia, __
+	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia, __
 	        Al -- le -- lu -- ia, 	Al -- le -- lu -- ia.
 
 }
@@ -326,8 +326,8 @@ StaveELyrics = \lyricmode {
 		Ut fi -- li -- um su -- um u -- ni -- ge -- ni -- tum da -- ret,
 	Ut om -- nis qui cre -- dit __ in ip -- sum non pe -- re -- at,
 	Sed ha -- be -- at vi -- tam ae -- ter -- nam,
-		Sed ha -- be -- at vi -- tam ae -- ter -- nam,	
-		Sed ha -- be -- at vi -- tam ae -- ter -- nam.	
+		Sed ha -- be -- at vi -- tam ae -- ter -- nam,
+		Sed ha -- be -- at vi -- tam ae -- ter -- nam.
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
 	Al -- le -- lu -- ia, 	Al -- le -- lu -- ia,
@@ -377,8 +377,8 @@ StaveGLyrics = \lyricmode { A }
           }
           \vspace #1
           \wordwrap  {
-              Barlines are editorial (one bar per \italic {tempus}, ie. breve); 
-              ficta, ligature brackets, cautionary and courtesy accidentals are above the stave where applicable. 
+              Barlines are editorial (one bar per \italic {tempus}, ie. breve);
+              ficta, ligature brackets, cautionary and courtesy accidentals are above the stave where applicable.
               Original note-values have been preserved as far as possible.
               Original mensuration marks are presented rather than imposing modern time signatures.
               Editorial underlay is in italics where applicable;
@@ -499,7 +499,7 @@ PrefStaveD = \markup {
                     \set Staff.instrumentName=\StaveDLabel
                     \PrefatorySettings
                     \clef "petrucci-c3"
-                    f'1
+                    f1
                      \bar"" \skip1
 		}  \layout {\PrefatoryLayout}
 	}
