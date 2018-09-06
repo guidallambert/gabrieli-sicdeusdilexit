@@ -31,7 +31,7 @@
 %
 
 \header {
-	title = "[TITLE HERE]"
+	title = "Sic Deus Dilexit Mundum"
 	subtitle = "Motetto a V voci"
 	% poet = ""
 	% subsubtitle = "VIII Vocum"
@@ -41,7 +41,7 @@
 }
 
 hcomposer = "Gabrieli"
-htitle = "[SHORT TITLE GOES HERE]"
+htitle = "Sic Deus Dilexit Mundum"
 
 %%% 1C - Transposition of the whole score.
 %
@@ -60,14 +60,14 @@ TranspositionInterval = c
 StaveAClef =  "treble"
 StaveALabel =  "CANTVS"
 
-StaveBClef =  "treble_8"
+StaveBClef =  "treble"
 StaveBLabel =  "ALTVS"
 
-StaveCClef =  "treble_8"
-StaveCLabel =  "TENOR"
+StaveCClef =  "treble"
+StaveCLabel =  "QVINTVS"
 
 StaveDClef =  "treble_8"
-StaveDLabel =  "QVINTVS"
+StaveDLabel =  "TENOR"
 
 StaveEClef =   "bass"
 StaveELabel =   "BASSVS"

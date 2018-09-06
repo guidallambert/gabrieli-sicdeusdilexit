@@ -40,7 +40,7 @@
 	\transpose c \TranspositionInterval <<
 		\new ChoirStaff = "MainChoirStaff" <<	 	% choir staff = group of staves formatted for a choir
 
-			 \set ChoirStaff.systemStartDelimiterHierarchy = #'(SystemStartBracket a b (SystemStartSquare  c d )  e )  % Uncomment and twiddle to create square brackets for gouping staves etc
+                  \set ChoirStaff.systemStartDelimiterHierarchy = #'(SystemStartBracket  a (SystemStartSquare b c) d e )  % Uncomment and twiddle to create square brackets for gouping staves etc
 			\set ChoirStaff.midiInstrument = \MidiPlaybackSound  %  "recorder" and "tuba" may also  be useful?
                         %\set ChoirStaff.midiMaximumVolume = 127  % Need to find a good value for this.
 
