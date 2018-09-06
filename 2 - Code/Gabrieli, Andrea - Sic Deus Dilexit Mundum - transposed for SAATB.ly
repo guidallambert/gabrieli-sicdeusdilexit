@@ -101,7 +101,7 @@ global = {
 % Suggest something in the range of 35 (very slow) to 65 (very fast).
 % 45 is my default.
 
-midiTactus = #(ly:make-moment 55 1)
+midiTactus = #(ly:make-moment 48 1)
 
 % Playback sound:
 % I think ocarina sounds a bit like a chamber organ on most General MIDI
