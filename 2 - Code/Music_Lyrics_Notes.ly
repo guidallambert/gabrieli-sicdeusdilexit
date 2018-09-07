@@ -78,12 +78,12 @@ StaveCNotes = {
   % clef c4  % tweak / uncomment for debugging - this should override the clef in the score block
 
 }
-StaveENotes = {  % QCed against source
+StaveDNotes = { 
 
   % clef c4  % tweak / uncomment for debugging - this should override the clef in the score block
 
 }
-StaveDNotes = { 
+StaveENotes = { 
 
   % clef c4  % tweak / uncomment for debugging - this should override the clef in the score block
 
